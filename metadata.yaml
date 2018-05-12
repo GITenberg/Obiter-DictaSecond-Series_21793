@@ -1,0 +1,35 @@
+_repo: Obiter-DictaSecond-Series_21793
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Birrell, Augustine
+    birthdate: 1850
+    deathdate: 1933
+    gutenberg_agent_id: '2413'
+    url: http://www.gutenberg.org/2009/agents/2413
+    wikipedia: http://en.wikipedia.org/wiki/Augustine_Birrell
+description: 1st ser. Carlyle ; On the alleged obscurity of Mr. Browning's poetry
+  ; Truth-hunting ; Actors ; A rogue's memoirs ; The via media ; Falstaff -- 2nd ser.
+  Milton ; Pope ; Johnson ; Burke ; The muse of history ; Charles Lamb ; Emerson ;
+  The office of literature ; Worn-out types Cambridge and the poets ; Book-buying.
+gutenberg_issued: '2007-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21793'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historiography'
+- !lcsh 'English literature -- History and criticism'
+- !lcsh 'Literature'
+- !lcc 'PR'
+tableOfContents: Milton -- Pope -- Dr. Johnson -- Edmund Burke -- The muse of history
+  -- Charles Lamb -- Emerson -- The office of literature -- Worn-out types -- Cambridge
+  and the poets -- Book-buying.
+title: 'Obiter Dicta: Second Series'
+url: http://www.gutenberg.org/ebooks/21793
